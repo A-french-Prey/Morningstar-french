@@ -18,3 +18,5 @@ Pour delete, le chemin ressemble est : \Morningstar v 1.7\Project1\www\save
 Puis : file1.rpgsave; file2.rpgsave; file3.rpgsave. Il suffit de suite de les supprimer
 
 ps : Le jeu est qu'un début, il n'y a que 30 minutes de jeu pour le moment.
+
+2,44 Go.
